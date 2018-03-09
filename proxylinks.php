@@ -1,6 +1,5 @@
 <?php
-//no need for this class, use PHP instead
-//include_once('simple_html_dom.php');
+include_once('simple_html_dom.php');
 
 /**
 * extracts URLs from webpage
